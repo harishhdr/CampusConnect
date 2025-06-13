@@ -1,9 +1,8 @@
-package com.campusconnect.campusconnect_auth.controller;
+package com.campusconnect.campusconnect_auth.controller.Auth;
 
 import com.campusconnect.campusconnect_auth.dto.AuthResponse;
 import com.campusconnect.campusconnect_auth.dto.LoginRequest;
 import com.campusconnect.campusconnect_auth.dto.RegisterRequest;
-import com.campusconnect.campusconnect_auth.dto.UserProfileResponse;
 import com.campusconnect.campusconnect_auth.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
