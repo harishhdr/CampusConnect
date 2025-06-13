@@ -2,7 +2,6 @@ package com.campusconnect.campusconnect_auth.controller.Officer;
 
 
 import com.campusconnect.campusconnect_auth.dto.AdmissionResponseDTO;
-import com.campusconnect.campusconnect_auth.service.AdmissionService;
 import com.campusconnect.campusconnect_auth.service.OfficerAdmissionService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
